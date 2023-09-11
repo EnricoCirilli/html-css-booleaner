@@ -1,0 +1,10 @@
+/* background color and image */
+header{
+    background-color: rgb(79, 151, 215);
+    background-image: url(../img/pattern.png);
+}
+/* logo resize */
+.logo img{
+    border: 2px solid red;
+    width: 60%;
+}
