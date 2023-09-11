@@ -3,6 +3,7 @@ body{
     margin-left: 20px;
     margin-right: 20px;
     margin-top: 0;
+    max-width: 100%;
 }
 
 /* /body setting */
@@ -11,13 +12,13 @@ body{
 header{
     background-color: rgba(0, 128, 255, 0.741);
     background-image: url(../img/pattern.png);
+    background-size:contain;
     background-repeat: repeat;
-    background-size:cover;
-    background-position:;
+    
 }
 
 .container-header{
     width: 200px;
     padding-top: 20px;
-   
+   padding-bottom: 10px;
 }
