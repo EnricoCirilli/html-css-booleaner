@@ -13,23 +13,33 @@ header{
     background-repeat: repeat;
     
 }
-
+/* content header */
 .container-header{
     width: 200px;
     padding-top: 20px;
     padding-bottom: 10px;
     margin-left: 10px;
 }
+/* /content header */
+
+/* highlitighing h4 h6 */
 h4, h6{
     color: grey;
 }
+/* /highlitighing h4 h6 */
+
+/* highlight the Booleaner */
 strong{
     color:rgba(0, 128, 255, 0.741);
 }
+/* /highlight the Booleaner */
+/* highlight part of the paragraph */
 .highlight{
     background: #e2ed17fe;
 }
-      
+/* /highlight part of the paragraph */
+
+/* table */
 table {
         border-collapse: collapse;
         width: 100%;
@@ -47,8 +57,9 @@ table {
       .table-white{
         background-color: white;
       }
-
-      
+/* table */
+  
+/* footer sizing and color */
 .footer-box0{
     background-image: url(../img/monitor.jpg);
     width: 300px;
@@ -64,3 +75,4 @@ table {
     color: white;
     margin-top: 10px;
 }
+/* footer sizing and color*/
