@@ -1,6 +1,6 @@
 /* body setting */
 body{
-   
+   text-align: left;
 }
 
 /* /body setting */
@@ -34,6 +34,13 @@ strong{
     color:rgba(0, 128, 255, 0.741);
 }
 /* /highlight the Booleaner */
+
+/* align ul */
+ul {
+    padding: 12px;  
+}
+/* /align ul */
+
 /* highlight part of the paragraph */
 .highlight{
     background: #e2ed17fe;
@@ -42,21 +49,21 @@ strong{
 
 /* table */
 table {
-        border-collapse: collapse;
-        width: 100%;
+    border-collapse: collapse;
+    width: 100%;
       }
       
-      th {
-        text-align: left;
-        background-color: rgba(0, 128, 255, 0.741);
-        color: white;
+th {
+    text-align: left;
+    background-color: rgba(0, 128, 255, 0.741);
+    color: white;
       }
-      td{
-        background-color: rgb(198, 227, 227);
-        padding: 10px;
+td{
+    background-color: rgb(198, 227, 227);
+    padding: 10px;
       }
-      .table-white{
-        background-color: white;
+.table-white{
+    background-color: white;
       }
 /* table */
   
