@@ -20,6 +20,12 @@ header{
     padding-bottom: 10px;
     margin-left: 10px;
 }
+h4, h6{
+    color: grey;
+}
+strong{
+    color:rgba(0, 128, 255, 0.741);
+}
 .highlight{
     background: #e2ed17fe;
 }
@@ -31,6 +37,15 @@ table {
       
       th {
         text-align: left;
+        background-color: rgba(0, 128, 255, 0.741);
+        color: white;
+      }
+      td{
+        background-color: rgb(198, 227, 227);
+        padding: 10px;
+      }
+      .table-white{
+        background-color: white;
       }
 
       
