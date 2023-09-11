@@ -45,6 +45,8 @@ h4, h6{
 img{
     margin-top: 20px;
 }
+/* /img main adding some margin */
+
 
 /* highlight the Booleaner */
 strong{
@@ -89,16 +91,19 @@ td{
 .footer-box0{
     background-image: url(../img/monitor.jpg);
     width: 300px;
-    height: 300px;
+    height: 200px;
     background-repeat: no-repeat;
     color: white;
+    margin-bottom: 10px;
+   
 }
 .footer-box1{
     background-image: url(../img/graph.jpg);
     width: 300px;
-    height: 300px;
+    height: 200px;
     background-repeat: no-repeat;
     color: white;
     margin-top: 10px;
+   
 }
 /* footer sizing and color*/
