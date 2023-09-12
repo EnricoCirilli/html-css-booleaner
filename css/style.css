@@ -1,5 +1,5 @@
 /* body setting */
-body{
+body {
    text-align: left;
    width: 100%;
 }
@@ -7,7 +7,7 @@ body{
 /* /body setting */
 
 /* header background color and image */
-header{
+header {
     background-color: rgba(0, 128, 255, 0.741);
     background-image: url(../img/pattern.png);
     background-size:contain;
@@ -16,7 +16,7 @@ header{
 /* /header background color and image */
 
 /* img logo header */
-.container-header{
+.container-header {
     width: 200px;
     padding-top: 20px;
     padding-bottom: 10px;
@@ -33,7 +33,7 @@ h1 {
 /* font h1 */
 
 /* highlitighing h4 h6 */
-h4, h6{
+h4, h6 {
     color: grey;
     padding: 0;
     margin: 0;
@@ -42,14 +42,14 @@ h4, h6{
 /* /highlitighing h4 h6 */
 
 /* img main adding some margin */
-img{
+img {
     margin-top: 20px;
 }
 /* /img main adding some margin */
 
 
 /* highlight the Booleaner */
-strong{
+strong {
     color:rgba(0, 128, 255, 0.741);
 }
 /* /highlight the Booleaner */
@@ -61,7 +61,7 @@ ul {
 /* /align ul */
 
 /* highlight part of the paragraph */
-.highlight{
+.highlight {
     background: #e2ed17fe;
 }
 /* /highlight part of the paragraph */
@@ -77,18 +77,18 @@ th {
     background-color: rgba(0, 128, 255, 0.741);
     color: white;
       }
-td{
+td {
     background-color: rgb(198, 227, 227);
     padding: 10px;
       }
-.table-white{
+.table-white {
     background-color: white;
       }
 
 /* table */
   
 /* footer sizing and color */
-.footer-box0{
+.footer-box0 {
     background-image: url(../img/monitor.jpg);
     width: 300px;
     height: 200px;
@@ -97,7 +97,7 @@ td{
     margin-bottom: 10px;
    
 }
-.footer-box1{
+.footer-box1 {
     background-image: url(../img/graph.jpg);
     width: 300px;
     height: 200px;
